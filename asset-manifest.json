@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Brooke-Eagleeye-portfolio/static/css/main.5ebb4922.css",
+    "main.css": "/Brooke-Eagleeye-portfolio/static/css/main.8db46786.css",
     "main.js": "/Brooke-Eagleeye-portfolio/static/js/main.d53f05e0.js",
     "static/js/453.1658e8fc.chunk.js": "/Brooke-Eagleeye-portfolio/static/js/453.1658e8fc.chunk.js",
     "static/media/img-18.jpg": "/Brooke-Eagleeye-portfolio/static/media/img-18.b7482fa0d8beae16da64.jpg",
@@ -22,12 +22,12 @@
     "static/media/sign.webp": "/Brooke-Eagleeye-portfolio/static/media/sign.096cbc237943acf0fe9f.webp",
     "static/media/nikeLogo.webp": "/Brooke-Eagleeye-portfolio/static/media/nikeLogo.9ab1caef9e0c218a233b.webp",
     "index.html": "/Brooke-Eagleeye-portfolio/index.html",
-    "main.5ebb4922.css.map": "/Brooke-Eagleeye-portfolio/static/css/main.5ebb4922.css.map",
+    "main.8db46786.css.map": "/Brooke-Eagleeye-portfolio/static/css/main.8db46786.css.map",
     "main.d53f05e0.js.map": "/Brooke-Eagleeye-portfolio/static/js/main.d53f05e0.js.map",
     "453.1658e8fc.chunk.js.map": "/Brooke-Eagleeye-portfolio/static/js/453.1658e8fc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ebb4922.css",
+    "static/css/main.8db46786.css",
     "static/js/main.d53f05e0.js"
   ]
 }
