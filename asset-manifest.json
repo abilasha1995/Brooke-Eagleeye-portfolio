@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Brooke-Eagleeye-portfolio/static/css/main.5ebb4922.css",
+    "main.js": "/Brooke-Eagleeye-portfolio/static/js/main.d53f05e0.js",
+    "static/js/453.1658e8fc.chunk.js": "/Brooke-Eagleeye-portfolio/static/js/453.1658e8fc.chunk.js",
+    "static/media/img-18.jpg": "/Brooke-Eagleeye-portfolio/static/media/img-18.b7482fa0d8beae16da64.jpg",
+    "static/media/heroBackground.webp": "/Brooke-Eagleeye-portfolio/static/media/heroBackground.774144397e92769e2081.webp",
+    "static/media/footer.jpg": "/Brooke-Eagleeye-portfolio/static/media/footer.01dcd84fe4035303834a.jpg",
+    "static/media/img-10.webp": "/Brooke-Eagleeye-portfolio/static/media/img-10.e34d5d11f85ca7a5b9eb.webp",
+    "static/media/slide-1.jpg": "/Brooke-Eagleeye-portfolio/static/media/slide-1.5b47d3da44b543fad0ac.jpg",
+    "static/media/img-8.jpg": "/Brooke-Eagleeye-portfolio/static/media/img-8.b0db1303237f860408ec.jpg",
+    "static/media/img-11.webp": "/Brooke-Eagleeye-portfolio/static/media/img-11.56702e5a35a068ae6ecb.webp",
+    "static/media/img-6.jpg": "/Brooke-Eagleeye-portfolio/static/media/img-6.91043b563094a0a0eba6.jpg",
+    "static/media/img-5.jpg": "/Brooke-Eagleeye-portfolio/static/media/img-5.27bb59263cda3176cc74.jpg",
+    "static/media/img-4.jpg": "/Brooke-Eagleeye-portfolio/static/media/img-4.42fd72f0ca473e0dc173.jpg",
+    "static/media/img-9.webp": "/Brooke-Eagleeye-portfolio/static/media/img-9.781e7228ca36eae322f0.webp",
+    "static/media/img-12.webp": "/Brooke-Eagleeye-portfolio/static/media/img-12.8fe9e7c5f71c244a0713.webp",
+    "static/media/img-1.webp": "/Brooke-Eagleeye-portfolio/static/media/img-1.6650845b3b6771c46f82.webp",
+    "static/media/img-3.webp": "/Brooke-Eagleeye-portfolio/static/media/img-3.f8797bdfc5e5dd2a21bb.webp",
+    "static/media/img-2.webp": "/Brooke-Eagleeye-portfolio/static/media/img-2.f351c76f02aad509a33a.webp",
+    "static/media/img-7.webp": "/Brooke-Eagleeye-portfolio/static/media/img-7.4a1cc2a592285361140f.webp",
+    "static/media/sign.webp": "/Brooke-Eagleeye-portfolio/static/media/sign.096cbc237943acf0fe9f.webp",
+    "static/media/nikeLogo.webp": "/Brooke-Eagleeye-portfolio/static/media/nikeLogo.9ab1caef9e0c218a233b.webp",
+    "index.html": "/Brooke-Eagleeye-portfolio/index.html",
+    "main.5ebb4922.css.map": "/Brooke-Eagleeye-portfolio/static/css/main.5ebb4922.css.map",
+    "main.d53f05e0.js.map": "/Brooke-Eagleeye-portfolio/static/js/main.d53f05e0.js.map",
+    "453.1658e8fc.chunk.js.map": "/Brooke-Eagleeye-portfolio/static/js/453.1658e8fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ebb4922.css",
+    "static/js/main.d53f05e0.js"
+  ]
+}
