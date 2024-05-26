@@ -1,9 +1,71 @@
+#Frontend Coding Test (Mid-Level)
+
+# Brooke Eagleen -
+
+https://dribbble.com/shots/23726513-Brook-Eagleeye-Professional-Athlete-Landing-Page-Website
+
+
+## Software Version
+
+node.js - v20.13.1
+NPM - v10.5.2
+
+##Code Reference Sources
+
+Swiper Slider - https://swiperjs.com/react
+
+## Used in This Project
+React js
+HTML
+JAVASCRIPT
+SCSS
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://link-to-project
+```
+
+Go to the project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+
+## Installation
+##. Download the Node.Js to the local project
+
+Install my-project with npm
+
+```bash
+  npm install my-project
+  cd my-project
+```
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
+This command installs a package and any packages that it depends on. If the package has a package-lock, or an npm shrinkwrap file
 
+### `npm install`
 In the project directory, you can run:
 
 ### `npm start`
@@ -68,3 +130,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+

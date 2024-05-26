@@ -1,0 +1,175 @@
+@import "../../index.scss";
+
+.Trademark{
+    background: $light-green;
+    width: 100%;
+    height: auto;
+    padding: 10rem 14rem 0 14rem;
+}
+
+.trademarkBtn{
+    float: right;
+
+    button{
+        display: flex;
+        align-items: center;
+        align-content: center;
+        padding: 5px 30px;
+        border-radius: 50px;
+        background: transparent;
+        font-weight: 500;
+        gap: 1rem;
+    }
+
+    span{
+        font-size: 1.5rem;
+        padding-bottom: -50px;
+    }
+}
+
+.trademarkTitle{
+    display: flex;
+    align-items: center;
+    gap: 6rem;
+
+    h2{
+        font-size: 8rem;
+        line-height: 7rem;
+        letter-spacing: -10px;
+    }
+}
+
+.trademarkContent{
+    padding-top: 5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.aboutRight{
+    translate: -10rem 0rem;
+}
+
+.igTwo{
+    translate: 15rem -38rem;
+}
+
+.trademarkDesOne{
+    text-align: left;
+    justify-content: center;
+    width: 26rem;
+    padding-left: 6rem;
+}
+
+.trademarkDesTwo{
+    padding-top: 5rem;
+    text-align: right;
+    width: 18rem;
+}
+
+@media screen and (max-width:1200px){
+    .Trademark{
+        padding: 5rem 14rem;
+    }
+    .treadmarkHead{
+        display: flex;
+        flex-direction: column-reverse;
+        align-items: center;
+    }
+
+    .trademarkBtn{
+        padding-top: 2rem;
+        float: left;
+    }
+    .trademarkTitle{
+        display: flex;
+        flex-direction: column-reverse;
+        gap: 2rem;
+
+        h2{
+            font-size: 8rem;
+            line-height: 7rem;
+            letter-spacing: -10px;
+        }
+    }
+
+    .trademarkContent{
+        padding-top: 2rem;
+        display: block;
+    }
+
+    .trademarkDesOne{
+        width: 100%;
+        padding-left: 0rem;
+    }
+
+    .trademarkDesTwo{
+        padding: 1rem 0 1rem 0;
+        text-align: left;
+        width: 100%;
+    }
+
+
+    .aboutRight{
+        display: none;
+    }
+
+  }
+
+  @media screen and (max-width:796px){
+    .Trademark{
+        background: $light-green;
+        width: 100%;
+        height: auto;
+        padding: 5rem 5rem 0 5rem;
+    }
+
+    .trademarkBtn{
+        padding-top: 2rem;
+    }
+    .trademarkTitle{
+        gap: 2rem;
+
+        h2{
+            font-size: $head-4;
+            letter-spacing: -5px;
+            line-height:  $line-height-1;
+        }
+    }
+
+    .trademarkBtn{
+        button{
+            font-size: 0.8rem;
+            padding: 5px 30px;
+            border-radius: 50px;
+            background: transparent;
+            font-weight: 500;
+            gap: 1rem;
+        }
+    
+        span{
+            font-size: 1rem;
+            padding-bottom: -50px;
+        }
+    }
+
+    .trademarkContent{
+        padding-top: 2rem;
+        display: block;
+    }
+
+    .trademarkDesOne{
+        width: 100%;
+
+    }
+
+    .trademarkDesTwo{
+        padding: 1rem 0 1rem 0;
+        text-align: left;
+        width: 100%;
+    }
+
+
+    .aboutRight{
+        display: none;
+    }
+  }

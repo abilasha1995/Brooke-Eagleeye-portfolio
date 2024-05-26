@@ -1,0 +1,23 @@
+@import "../../index.scss";
+
+.card {
+    border: 10px solid;
+    background: $white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 100%;
+}
+
+.container {
+    padding: 25px 16px;
+
+    h4{
+        font-weight: $weight-bold;
+        color: $font-black;
+    }
+
+    p{
+        color: $font-black;
+        font-size: 12px;
+    }
+}

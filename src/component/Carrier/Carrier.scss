@@ -1,0 +1,127 @@
+@import "../../index.scss";
+
+.carrier{
+    background: $light-green;
+    width: 100%;
+    height: 80vh;
+    padding: 20rem 14rem;
+}
+
+.carrieContent{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.carrieRight{
+    text-align: left;
+    span{
+        font-weight: $weight-regular;
+    }
+    p{
+       margin-top: 12rem;
+       width: 25rem;
+    }
+}
+
+.carrirLeft{
+    h2{
+        text-align: right;
+        font-size: 8rem;
+        line-height: 7rem;
+    }
+
+    button{
+        display: flex;
+        margin: 5rem 0 0 30rem;
+        align-items: center;
+        align-content: center;
+        padding: 5px 30px;
+        border-radius: 50px;
+        background: transparent;
+        font-weight: 500;
+        gap: 1rem;
+    }
+
+    span{
+        font-size: 1.5rem;
+        padding-bottom: -50px;
+    }
+}
+
+@media screen and (max-width:1200px){
+    .carrier{
+        height: 80vh;
+        padding: 2rem 1rem;
+    }
+    
+    .carrieContent{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+    
+    
+    .carrieRight{
+        text-align: left;
+        p{
+           margin-top: 2rem;
+           width: 25rem;
+        }
+    }
+    
+    .carrirLeft{
+        h2{
+            text-align: left;
+            letter-spacing: -10px;
+        }
+    
+        button{
+            margin: 5rem 0 0 0rem;
+            gap: 1rem;
+        }
+    
+        span{
+            font-size: 1.5rem;
+            padding-bottom: -50px;
+        }
+    }
+    
+    
+}
+
+@media screen and (max-width:796px){
+    .carrier{
+        padding: 0 1rem;
+        height: 60vh;
+    }
+
+    .carrirLeft{
+        h2{
+            padding-top: 2rem;
+            text-align: left;
+            font-size: $head-4;
+            letter-spacing: -5px;
+            line-height:  $line-height-1;
+        }
+    
+        button{
+            display: flex;
+            margin: 4rem 0 0 0;
+            align-items: left;
+            align-content: center;
+            padding: 5px 30px;
+            border-radius: 50px;
+            background: transparent;
+            font-weight: 500;
+            gap: 1rem;
+        }
+    
+        span{
+            font-size: 1.5rem;
+            padding-bottom: 0px;
+        }
+    }
+    
+
+  }

@@ -1,0 +1,40 @@
+
+  .triple{
+    .swiper {
+      width:100%;
+      height: 25rem;
+    }
+  }
+  
+  .swiper-slide {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 500;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  
+@media screen and (max-width:1200px){
+  .triple{
+    .swiper {
+      width:100%;
+      height: 15rem;
+    }
+  }
+}
+
+@media screen and (max-width:796px){
+  .triple{
+    .swiper {
+      width:100%;
+      height: 50%;
+    }
+  }
+}
